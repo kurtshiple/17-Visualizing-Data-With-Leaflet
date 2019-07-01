@@ -1,0 +1,2 @@
+# 17-Visualizing-Data-With-Leaflet
+Here I used a live GeoJSON data api from the USGA to plot the most recent earthquakes of the week. They are sorted by magnitude and this is represented with marker size and color scale. Markers also reveal information when clicked on. This includes basic information like the magnitude and approximate location but it also displays a link back to the USGA website that gives further information on that specific earthquake event.
